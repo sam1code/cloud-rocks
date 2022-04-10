@@ -1,0 +1,50 @@
+[
+    {
+        "months": "jan",
+        "student": 0
+    },
+    {
+        "months": "feb",
+        "student": 7
+    },
+    {
+        "months": "mar",
+        "student": 8
+    },
+    {
+        "months": "apr",
+        "student": 10
+    },
+    {
+        "months": "may",
+        "student": 9
+    },
+    {
+        "months": "jun",
+        "student": 10
+    },
+    {
+        "months": "jul",
+        "student": 11
+    },
+    {
+        "months": "aug",
+        "student": 11
+    },
+    {
+        "months": "sep",
+        "student": 11
+    },
+    {
+        "months": "oct",
+        "student": 12
+    },
+    {
+        "months": "nov",
+        "student": 13
+    },
+    {
+        "months": "dec",
+        "student": 14
+    }
+]
